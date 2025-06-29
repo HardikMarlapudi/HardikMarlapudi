@@ -13,7 +13,7 @@
 - 🌱 I’m learning **full-stack web development**
 - 🤝 I’m open to **collaborating on real-world projects**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/hardik-marlapudi-b471ab307/)
+- 📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/hardik-marlapudi-b47a14307/)
 
 ---
 
