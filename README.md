@@ -15,14 +15,14 @@
 - 🌱 I’m learning **full-stack web development**
 - 🤝 I’m open to **collaborating on real-world projects**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/hardik-marlapudi-b471ab307/)
+- 📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/hardik-marlapudi-b47a14307/)
 
 ---
 
 ### ⚙️ Technologies and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,express,mongodb,git,github,java,py,cpp,matlab,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,express,mongodb,git,github,java,vscode" />
 </p>
 
 ---
@@ -43,5 +43,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hardik-marlapudi-b471ab307/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hmarlapu@email.sc.edu"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:hardik.a.marlapudi@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
