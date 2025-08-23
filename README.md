@@ -2,11 +2,6 @@
 <p align="center">
   Welcome to my GitHub profile! I'm passionate about building software and exploring the endless possibilities of coding. While I specialize in Java, I'm also expanding my skills in React.js, Vue.js, and JavaScript to tackle exciting new challenges and grow as a developer.
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Web+and+App+Developer;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me:
