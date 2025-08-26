@@ -37,7 +37,7 @@
 ### 🔗 Connect With Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hardik-marlapudi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hardik-marlapudi-b47a14307/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hardik.a.marlapudi@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.instagram.com/hardik_marlapudi/"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor="pink" alt="Instagram" /></a>
 </p>
