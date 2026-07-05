@@ -17,7 +17,7 @@
 ### ⚙️ Technologies and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,vue,node.js,python,mysql,tailwindcss,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,vue,node,python,mysql,tailwindcss,express,mongodb,git,github,vscode" />
 </p>
 
 ---
